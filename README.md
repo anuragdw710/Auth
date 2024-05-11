@@ -12,6 +12,7 @@
 
 ## Set Up
 ```
-npm install
-
+- git clone https://github.com/anuragdw710/Auth
+- npm install
+- npm start
 ```
